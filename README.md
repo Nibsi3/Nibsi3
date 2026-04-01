@@ -1,5 +1,9 @@
 # cameron | software engineer
 
+<!-- color-strip -->
+![build](https://img.shields.io/badge/build-passing-22c55e) ![coverage](https://img.shields.io/badge/coverage-growing-06b6d4) ![focus](https://img.shields.io/badge/focus-product%20quality-a855f7)
+
+
 Building production-ready products across web platforms, fintech workflows, automation, and AI-assisted systems.
 
 ## featured projects
