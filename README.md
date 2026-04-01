@@ -8,6 +8,11 @@ Building production-ready products across web platforms, fintech workflows, auto
 3. [caps-tutor](https://github.com/Nibsi3/caps-tutor)
 4. [garden-route-spotlight](https://github.com/Nibsi3/garden-route-spotlight)
 
+## profile focus
+- Strong product delivery, backend integrations, and production-focused architecture.
+- Comfortable across frontend, API design, data modeling, and deployment workflows.
+- Projects prioritized for code quality, clarity, and maintainability.
+
 ## next in line
 - [trakcare-barcode-scanner](https://github.com/Nibsi3/trakcare-barcode-scanner)
 - [snapframe](https://github.com/Nibsi3/snapframe)
