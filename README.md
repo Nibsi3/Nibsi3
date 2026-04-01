@@ -1,4 +1,4 @@
-# cameron | software engineer
+# cameron | full stack developer & API builder
 
 <!-- color-strip -->
 ![build](https://img.shields.io/badge/build-passing-22c55e) ![coverage](https://img.shields.io/badge/coverage-growing-06b6d4) ![focus](https://img.shields.io/badge/focus-product%20quality-a855f7)
@@ -16,6 +16,7 @@ Building production-ready products across web platforms, fintech workflows, auto
 - Strong product delivery, backend integrations, and production-focused architecture.
 - Comfortable across frontend, API design, data modeling, and deployment workflows.
 - Projects prioritized for code quality, clarity, and maintainability.
+- Currently expanding into data engineering, REST API development with C# and SQL-based data pipelines.
 
 ## next in line
 - [trakcare-barcode-scanner](https://github.com/Nibsi3/trakcare-barcode-scanner)
