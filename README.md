@@ -1,26 +1,24 @@
-# Nibsi3
+# cameron | software engineer
 
-## Overview
-Profile/config repository for the GitHub account, used as the landing page and public profile content.
+Building production-ready products across web platforms, fintech workflows, automation, and AI-assisted systems.
 
-## Highlights
-- Clean project structure with separated app/data/config concerns.
-- Production-oriented setup with environment-driven configuration.
-- Ready for extension with tests, CI checks, and deployment workflows.
+## featured projects
+1. [illumi](https://github.com/Nibsi3/illumi)
+2. [slip-a-tip](https://github.com/Nibsi3/slip-a-tip)
+3. [caps-tutor](https://github.com/Nibsi3/caps-tutor)
+4. [garden-route-spotlight](https://github.com/Nibsi3/garden-route-spotlight)
 
-## Tech Stack
-- Project-specific stack
+## next in line
+- [trakcare-barcode-scanner](https://github.com/Nibsi3/trakcare-barcode-scanner)
+- [snapframe](https://github.com/Nibsi3/snapframe)
+- [telegram-calendar-bot](https://github.com/Nibsi3/telegram-calendar-bot)
+- [telegram-movie-series-bot](https://github.com/Nibsi3/telegram-movie-series-bot)
 
-## Run Locally
-1. Clone the repository and move into the project folder.
-2. Install dependencies (`npm install`, `pnpm install`, or the package manager used by the project).
-3. Create a local `.env` file if environment variables are required.
-4. Start the development server and verify the main flow works end-to-end.
-
-## Repository Layout
-- Minimal structure (single-app repository).
-
-## Security Notes
-- Keep credentials in environment variables, never in tracked files.
-- Rotate and replace any key immediately if exposure is suspected.
-- Use least-privilege tokens for third-party integrations.
+## also available
+- [haval-website](https://github.com/Nibsi3/haval-website)
+- [george-herald](https://github.com/Nibsi3/george-herald)
+- [build-volume](https://github.com/Nibsi3/build-volume)
+- [video-generator](https://github.com/Nibsi3/video-generator)
+- [pixaloom-website](https://github.com/Nibsi3/pixaloom-website)
+- [discord-trading-bot](https://github.com/Nibsi3/discord-trading-bot)
+- [nordflam](https://github.com/Nibsi3/nordflam)
