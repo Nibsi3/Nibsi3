@@ -10,10 +10,6 @@ Building production-ready products across web platforms, fintech workflows, IoT 
 
 [![FleetPulse](https://raw.githubusercontent.com/Nibsi3/fleetpulse/main/assets/banner.svg)](https://github.com/Nibsi3/fleetpulse)
 
-**[fleetpulse](https://github.com/Nibsi3/fleetpulse)** — Full-stack IoT fleet telemetry platform. C# ASP.NET Core 8 REST API + EF Core + SQLite backend with a live `BackgroundService` that simulates real vehicle telemetry every 10 seconds. React + TypeScript dashboard with vehicle drill-down, live API console, and fleet performance metrics.
-
-`C#` `ASP.NET Core` `React` `TypeScript` `SQLite` `EF Core` `Framer Motion`
-
 ---
 
 - **[illumi](https://github.com/Nibsi3/illumi)** — AI-assisted learning platform
